@@ -1,5 +1,9 @@
 # Evaluación Interna: Química
 # Fuentes
+https://blogs.20minutos.es/ciencia-para-llevar-csic/2014/07/22/por-que-el-jabon-no-hace-la-misma-espuma-cuando-te-vas-de-vacaciones/
+
+https://www.betelgeux.es/blog/2020/06/25/el-papel-espuma-detergencia/
+
 https://www.sciencedirect.com/science/article/abs/pii/S0956053X1730291X?via%3Dihub
 
 https://www.sciencedirect.com/science/article/pii/S2212371713000048
