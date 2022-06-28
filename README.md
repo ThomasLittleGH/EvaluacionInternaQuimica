@@ -78,6 +78,6 @@ Combinar y revolver el agua desionizada y la mitad del hidróxido de sodio (Tabl
 
 #Influencia de la formulacion sobre las espumas
 
-[fuente](https://www.researchgate.net/publication/255632307_INFLUENCIA_DE_LA_FORMULACION_SOBRE_LAS_ESPUMAS
+![fuente](https://www.researchgate.net/publication/255632307_INFLUENCIA_DE_LA_FORMULACION_SOBRE_LAS_ESPUMAS
 
 "Los principales pasos en la vida de una espuma son: formación, maduración y ruptura .Las reglas paraseleccionar los surfactantes y los aditivos, así como las condiciones para la formación de espumas (efectode la temperatura) son descritos y deducidos por los fenómenos físico-químicos que envuelven el ciclo devida de la espuma.La cinética de adsorción de los surfactantes y de los aditivos como la cohesión de los arreglos molecularesde los surfactantes en la superficie agua-aire son los principales fenómenos que explican el comportamientode una espuma."
