@@ -44,7 +44,8 @@ Según Cecilia López, subdirectora innovación y calidad de Betelgeux:
 
 “La espuma es una de las imágenes más frecuentemente asociadas a los detergentes y a la limpieza en general. Cuando se utiliza un detergente, un jabón o un champú en el ámbito doméstico, normalmente se espera que el producto produzca una espuma abundante y duradera, que inconscientemente se asocia a una mayor calidad del producto. (…)En la formación de espumas pueden diferenciarse tres etapas que involucran varios mecanismos de producción y fenómenos físico-químicos. La primera etapa corresponde a la propia generación de la espuma y es aquí donde los tensioactivos juegan un importante papel. En la segunda etapa ocurre la maduración desde espuma húmeda a seca y en la última se dan los mecanismos de persistencia de esta espuma seca. De estas tres etapas, la primera de ellas será la que defina el comportamiento final de la espuma y por tanto la más interesante en cuanto a su estudio (…) El carácter espumante de los ácidos grasos y sus sales depende, sobre todo, de su solubilidad en el agua y de las diferencias entre sus contraiones (K+ y Na+). Como ejemplo, el estearato de sodio puro es demasiado insoluble para hacer espuma durante el lavado de manos, pero las sales de ácidos grasos de menor peso molecular son más solubles en agua y producen espumas aceptables.”(https://www.betelgeux.es/blog/2020/06/25/el-papel-espuma-detergencia/)
 
-=0=
+#COMO CREAR JABONES
+
 https://es.booksc.org/book/40465783/46dc41
 
 Jabón 1885 - Materiales:
@@ -62,6 +63,8 @@ El jabón se endurecera durante el die, luego se debera envolver en manteca dece
 
 
 =0=
+
+
 https://es.booksc.org/book/21639767/94037f
 
 Jabón 2005
@@ -70,4 +73,11 @@ Combinar y revolver el agua desionizada y la mitad del hidróxido de sodio (Tabl
 
 
 ![Table 1](https://user-images.githubusercontent.com/43427319/176222887-568b4c76-2e92-4c68-89b6-3339f1848714.png)
+
 *Cantidades en gramos*
+
+#Influencia de la formulacion sobre las espumas
+
+[fuente](https://www.researchgate.net/publication/255632307_INFLUENCIA_DE_LA_FORMULACION_SOBRE_LAS_ESPUMAS
+
+"Los principales pasos en la vida de una espuma son: formación, maduración y ruptura .Las reglas paraseleccionar los surfactantes y los aditivos, así como las condiciones para la formación de espumas (efectode la temperatura) son descritos y deducidos por los fenómenos físico-químicos que envuelven el ciclo devida de la espuma.La cinética de adsorción de los surfactantes y de los aditivos como la cohesión de los arreglos molecularesde los surfactantes en la superficie agua-aire son los principales fenómenos que explican el comportamientode una espuma."
