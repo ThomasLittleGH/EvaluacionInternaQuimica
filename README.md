@@ -47,11 +47,20 @@ Según Cecilia López, subdirectora innovación y calidad de Betelgeux:
 =0=
 https://es.booksc.org/book/40465783/46dc41
 Jabón 1885
+
+
 ![Procedimiento y materiales](https://user-images.githubusercontent.com/43427319/176223543-a309c0eb-8e90-4722-ae8c-76744c2655da.png)
+
+
+=0=
+
+
 
 =0=
 https://es.booksc.org/book/21639767/94037f
 Jabón 2005
 Procediento: Cold-Process Soap (Formulas 1–8)
 Combine and stir the deionized water and half of the sodium hydroxide (Table 1) in a 250-mL beaker on a mag- netic stirring plate. After the solid has dissolved, add the re- maining sodium hydroxide. Stir and heat all fats and oils until melted in a 400-mL beaker on a magnetic stirring hot plate. Slowly pour the base solution into the beaker of fats and oils and stir until “trace” is observed. To test for trace, dip a stir- ring rod into the mixture and wave it over the surface. If the drizzled material leaves a pattern on the surface before sink- ing, the soap has traced. Add scent and cream and stir the mixture until trace is reached again. Pour the soap into molds or weighing boats (either four, 3 in. × 3 in.-square boats or six, 2 5/8 in. × 3 in.-hexagonal boats). Place the molds in an insulated chest for one week so that the evolving heat will harden the soap.
+
+
 ![Table 1](https://user-images.githubusercontent.com/43427319/176222887-568b4c76-2e92-4c68-89b6-3339f1848714.png)
