@@ -49,15 +49,15 @@ https://es.booksc.org/book/40465783/46dc41
 
 Jabón 1885 - Materiales:
 
-Tallow (Grasa de Vacuno)......95lb
+Tallow (Grasa de Vacuno)......43.0913kg
 
-Cocoa oil......................5lb
+Cocoa oil.....................2.26796kg
 
-Potash Lye....................55lb
+Potash Lye....................24.9476kg
 
 Procedimiento:
 
-Derretir la grasa y el aceite a 100ºF y gradualmente, mientras se revuelve, agregar Postash Lye.
+Derretir la grasa y el aceite a 310.928 Kelvin y gradualmente, mientras se revuelve, agregar Postash Lye.
 El jabón se endurecera durante el die, luego se debera envolver en manteca decerdo y dejar guardado por 2 semanas.
 
 
