@@ -63,6 +63,7 @@ El jabón se endurecera durante el die, luego se debera envolver en manteca dece
 
 =0=
 https://es.booksc.org/book/21639767/94037f
+
 Jabón 2005
 Procediento: Cold-Process Soap (Formulas 1–8)
 Combinar y revolver el agua desionizada y la mitad del hidróxido de sodio (Tabla 1) en un vaso de precipitados de 250 ml en una placa de agitación magnética. Después de que el sólido se haya disuelto, agreguar el hidróxido de sodio restante. Revolver y calentar todas las grasas y aceites hasta que se derritan en un vaso de precipitados de 400 ml en una placa caliente con agitación magnética. Verter lentamente la solución base en el vaso de precipitados de grasas y aceites y remover hasta observar “trazas”. Para comprobar si hay trazas, sumerja una varilla de agitación en la mezcla y agítela sobre la superficie. Si el material rociado deja un patrón en la superficie antes de hundirse, el jabón ha dejado huellas. Agregue el aroma y la crema y revuelva la mezcla hasta que se vuelva a alcanzar el rastro. Luego, hay que verter el jabón en moldes o botes de pesaje (cuatro botes cuadrados de 3 x 3 pulgadas o seis botes hexagonales de 2 5/8 x 3 pulgadas). Colocar los moldes en un cofre aislado durante una semana para que el calor que se desarrolla endurezca el jabón.
