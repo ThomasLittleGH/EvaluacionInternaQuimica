@@ -50,7 +50,9 @@ https://es.booksc.org/book/40465783/46dc41
 Jabón 1885 - Materiales:
 
 Tallow (Grasa de Vacuno)......95lb
+
 Cocoa oil......................5lb
+
 Potash Lye....................55lb
 
 Procedimiento:
