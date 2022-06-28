@@ -46,10 +46,17 @@ Según Cecilia López, subdirectora innovación y calidad de Betelgeux:
 
 =0=
 https://es.booksc.org/book/40465783/46dc41
-Jabón 1885
 
+Jabón 1885 - Materiales:
 
-![Procedimiento y materiales](https://user-images.githubusercontent.com/43427319/176223543-a309c0eb-8e90-4722-ae8c-76744c2655da.png)
+Tallow (Grasa de Vacuno)......95lb
+Cocoa oil......................5lb
+Potash Lye....................55lb
+
+Procedimiento:
+
+Derretir la grasa y el aceite a 100ºF y gradualmente, mientras se revuelve, agregar Postash Lye.
+El jabón se endurecera durante el die, luego se debera envolver en manteca decerdo y dejar guardado por 2 semanas.
 
 
 =0=
